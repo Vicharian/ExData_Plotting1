@@ -4,8 +4,6 @@ These are the four plots of the deliverable
 
 ### Plot 1
 
-![code](code/plot1.r)
-
 ![plot 1](figure/plot1.png)
 
 
